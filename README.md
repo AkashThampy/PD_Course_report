@@ -72,5 +72,14 @@ Noticed the placement density has got a bit relaxed.
 
 
 
- 
+ Successfully cloned vsdstdcelldesign from github. 
+ 
+ ![image](https://user-images.githubusercontent.com/107097885/175576938-ea630d3c-1904-49ba-816b-98572c6101bc.png)
+
+
+
+
+Opening the inveter layout through magic and undertanding the layers. 
+
+![image](https://user-images.githubusercontent.com/107097885/175579519-70ba1d8d-32f9-4c9b-998a-ce84c1ae30b1.png)
 
