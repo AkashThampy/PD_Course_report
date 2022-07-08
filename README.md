@@ -162,4 +162,10 @@ Lef content:  Defined ports with direction and type is honored in the lef.
 
 ![image](https://user-images.githubusercontent.com/107097885/178011296-2b151487-5238-4216-81c7-a6579421b523.png)
 
+Plugging in the custom created inv lef and libs: 
+
+1. Synthesis part -> doner successfully (mapped using typical lib corner) and lef written out. 
+
+
+![image](https://user-images.githubusercontent.com/107097885/178058139-2ff7d0ff-f432-45c4-9af4-24d732aa7995.png)
 
