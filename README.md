@@ -183,3 +183,12 @@ Trying to change some synthesis settings associated with area of cell, size of c
 Finally SYNTH_STRATEGY DELAY 0 helped. 
 
 ![image](https://user-images.githubusercontent.com/107097885/178073935-6343c914-2528-45fa-9674-aba1f557e1ed.png)
+
+
+Floor plan (using new command init_floorplan) and placement done successfully, custom inv cell highlighted in the gui below in magic
+
+![image](https://user-images.githubusercontent.com/107097885/178074743-f8cab154-94bb-4750-9ca4-37cb9a222d7b.png)
+
+
+
+
