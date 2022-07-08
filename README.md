@@ -168,3 +168,12 @@ Plugging in the custom created inv lef and libs:
 
 
 ![image](https://user-images.githubusercontent.com/107097885/178058139-2ff7d0ff-f432-45c4-9af4-24d732aa7995.png)
+
+But with the default synthesis settings, it seems like we have high -ve slack vioaltions. See the snip below and highlights:
+
+![image](https://user-images.githubusercontent.com/107097885/178064557-ac3f9314-aea3-47fe-a1de-bf683321ea8c.png)
+
+Trying to change some synthesis settings associated with area of cell, size of cell, buffering of reset paths to see if delay is improved. 
+
+![image](https://user-images.githubusercontent.com/107097885/178065074-451608bc-a410-4298-9af4-42b6914e9369.png)
+
