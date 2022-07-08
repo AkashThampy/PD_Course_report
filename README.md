@@ -88,3 +88,40 @@ Editing the layout to understand the DRC violations popping:
 ![image](https://user-images.githubusercontent.com/107097885/177954148-314eb76f-7eb3-4be7-8b03-b75ab16e4605.png)
 
 
+Extracted spice deck from the inverter layout from magic using the below commands: 
+extract all
+ext2spice cthresh 0 rthresh 0
+ext2spice 
+
+made necessary changes and below is the final spice file. Doing a transient simualtion by applying a pulse 3.3v to the input. 
+
+
+![image](https://user-images.githubusercontent.com/107097885/177978928-e6256424-ba14-4156-9638-1e631d54c0d7.png)
+
+
+
+Obtained the required output, where y is plotted againts input a and y seems to be inverting with respect to which is the expected behaviour in inv cells. 
+
+![image](https://user-images.githubusercontent.com/107097885/177978750-71dc580c-ad8c-40bc-abbd-e8b70df8483c.png)
+
+
+Used the spice generated w/f to compute slew and cell delay.
+
+Slew= time_at_(80%of w/f-20%w/f)
+Cell delay_rise = time_at(50%o/p_rise-50%input_fall) and vice versa for fall_cell dealy
+
+Input rise slew: 4.08006e-9-4.02019e-9 =  59.87ps
+Input Fall slew: 2.18e-9 - 2.12e-9 = 60ps
+Output rise slew: 2.20377e-9-2.16169e-9 = 42ps
+Output False slew: 4.06826e-9-4.04042e-9 = 27ps
+
+
+Cell delay rise = 2.18446e-9-2.1497e-9 = 34.76ps
+Cell dealy fall = 4.05432e-9-4.05001e-9 = 4.31ps
+
+Eg w/f capturing cell rise delay:
+
+![image](https://user-images.githubusercontent.com/107097885/177988829-ae0426b1-4a34-43a9-83a3-0c21a6573784.png)
+
+
+
