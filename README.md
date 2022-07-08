@@ -124,4 +124,7 @@ Eg w/f capturing cell rise delay:
 ![image](https://user-images.githubusercontent.com/107097885/177988829-ae0426b1-4a34-43a9-83a3-0c21a6573784.png)
 
 
+Donwloaded and untarred the drc_test kit and opened MET3.mag in magic 
+
+![image](https://user-images.githubusercontent.com/107097885/177999171-5a0c9c34-c8df-444d-9ae8-d0b06dc25e8a.png)
 
