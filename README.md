@@ -180,3 +180,6 @@ Trying to change some synthesis settings associated with area of cell, size of c
 
 ![image](https://user-images.githubusercontent.com/107097885/178065074-451608bc-a410-4298-9af4-42b6914e9369.png)
 
+Finally SYNTH_STRATEGY DELAY 0 helped. 
+
+![image](https://user-images.githubusercontent.com/107097885/178073935-6343c914-2528-45fa-9674-aba1f557e1ed.png)
