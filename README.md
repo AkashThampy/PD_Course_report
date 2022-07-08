@@ -79,7 +79,12 @@ Noticed the placement density has got a bit relaxed.
 
 
 
-Opening the inveter layout through magic and undertanding the layers. 
+Opening the inveter layout through magic and undertanding the layers. DRC clean design sa we see DRC= 0 
 
 ![image](https://user-images.githubusercontent.com/107097885/175579519-70ba1d8d-32f9-4c9b-998a-ce84c1ae30b1.png)
+
+Editing the layout to understand the DRC violations popping: 
+
+![image](https://user-images.githubusercontent.com/107097885/177954148-314eb76f-7eb3-4be7-8b03-b75ab16e4605.png)
+
 
