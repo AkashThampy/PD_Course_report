@@ -168,4 +168,3 @@ Plugging in the custom created inv lef and libs:
 
 
 ![image](https://user-images.githubusercontent.com/107097885/178058139-2ff7d0ff-f432-45c4-9af4-24d732aa7995.png)
-
