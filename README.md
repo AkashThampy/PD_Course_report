@@ -158,7 +158,7 @@ Finally writing down the lef:
 ![image](https://user-images.githubusercontent.com/107097885/178011087-f4d38b7a-2588-4aef-a6e5-da9fcc96f14e.png)
 
 
-Lef content:  Defined ports with direction and type is honored in the def. 
+Lef content:  Defined ports with direction and type is honored in the lef. 
 
 ![image](https://user-images.githubusercontent.com/107097885/178011296-2b151487-5238-4216-81c7-a6579421b523.png)
 
