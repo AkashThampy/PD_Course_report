@@ -76,6 +76,9 @@ Noticed the placement density has got a bit relaxed.
  
  ![image](https://user-images.githubusercontent.com/107097885/175576938-ea630d3c-1904-49ba-816b-98572c6101bc.png)
 
+With SYNTH_STRATEGY "DELAY 0". Achieved 0 slack...
+
+![image](https://user-images.githubusercontent.com/107097885/178073667-7098cb87-ae1e-4c83-bcb8-68216f8852cd.png)
 
 
 
