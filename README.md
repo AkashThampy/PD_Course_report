@@ -124,7 +124,42 @@ Eg w/f capturing cell rise delay:
 ![image](https://user-images.githubusercontent.com/107097885/177988829-ae0426b1-4a34-43a9-83a3-0c21a6573784.png)
 
 
-Donwloaded and untarred the drc_test kit and opened MET3.mag in magic 
+Donwloaded and untarred the drc_test kit and opened MET3.mag in magic , checking DRC violations reasons using console window: 
 
-![image](https://user-images.githubusercontent.com/107097885/177999171-5a0c9c34-c8df-444d-9ae8-d0b06dc25e8a.png)
+![image](https://user-images.githubusercontent.com/107097885/178001097-8ebbae25-ddcf-4199-8779-dc3dc4476b75.png)
+
+
+Conversion of layout to lef steps
+
+
+1. Making sure that the inv layouts input and output ports are correctly placed on the intersection of tracks of li layer. 
+
+![image](https://user-images.githubusercontent.com/107097885/178006500-104079ae-afe8-4d68-ad3d-9a11614d3a73.png)
+
+
+
+2. Width of std cell = odd multiple of x pitch  , height of std cell is odd  multiple of y pitch -> verified. 
+
+
+
+3. Definging ports in required layers: 
+
+![image](https://user-images.githubusercontent.com/107097885/178008265-16470849-8fcd-493f-b10d-7d2eaabcd750.png)
+
+
+4. Defining direction and use of ports: 
+
+![image](https://user-images.githubusercontent.com/107097885/178009719-294498a3-78e1-469f-9885-03d9e30e9872.png)
+
+
+
+Finally writing down the lef: 
+
+![image](https://user-images.githubusercontent.com/107097885/178011087-f4d38b7a-2588-4aef-a6e5-da9fcc96f14e.png)
+
+
+Lef content:  Defined ports with direction and type is honored in the def. 
+
+![image](https://user-images.githubusercontent.com/107097885/178011296-2b151487-5238-4216-81c7-a6579421b523.png)
+
 
