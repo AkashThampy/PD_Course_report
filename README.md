@@ -223,4 +223,9 @@ SYNTH_MAX_FANOUT 4 etc.
 
 ![image](https://user-images.githubusercontent.com/107097885/178098003-d7b94cd7-b0d9-4da0-ac70-ca4d18092ecc.png)
 
+# few checks post cts to verify the results: 
+
+![image](https://user-images.githubusercontent.com/107097885/178098437-bd4f9514-7700-41e2-b61c-f6e11fef6983.png) 
+
+
 
