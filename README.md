@@ -219,12 +219,6 @@ CTS successfully synthesised.
 
 
 
-Clock tree synthesis done succesfully: 
-
-
-![image](https://user-images.githubusercontent.com/107097885/178097957-25743bb9-c621-46af-b2c3-421cf042bc06.png)
-
-
 Created a new netlist for further stages after CTS. 
 
 ![image](https://user-images.githubusercontent.com/107097885/178098003-d7b94cd7-b0d9-4da0-ac70-ca4d18092ecc.png)
