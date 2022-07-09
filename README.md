@@ -211,7 +211,7 @@ Optimizing synthesis to reduce setup violations.
 SYNTH_MAX_FANOUT 4 etc. 
 
 
-# CTS successfully synthesised. 
+# CTS successfully done. 
 
 
 ![image](https://user-images.githubusercontent.com/107097885/178097825-fa0e1974-7283-49f0-8c3f-11175897e9cb.png)
