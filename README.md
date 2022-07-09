@@ -194,7 +194,7 @@ Finally SYNTH_STRATEGY DELAY 0 helped.
 
 Floor plan (using new command init_floorplan) steps till placement placement done successfully, custom inv cell highlighted in the gui below in magic
 init_floorplan
-place_io
+place_io'\r'
 global_placement_or
 detailed_placement
 tap_decap_or
