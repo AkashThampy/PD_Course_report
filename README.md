@@ -229,3 +229,12 @@ SYNTH_MAX_FANOUT 4 etc.
 
 
 
+ Launching openroad, loading lef and cts def and  dumping a db
+ 
+ ![image](https://user-images.githubusercontent.com/107097885/178100778-01d6555f-2b9d-4de4-b171-89655b167885.png)
+ 
+ 
+ Observing -ve hold slack after cts which needs to be fixed. 
+ 
+ ![image](https://user-images.githubusercontent.com/107097885/178101216-8ec848ab-2087-4891-98a1-b9e8b223b7c1.png)
+
