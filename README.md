@@ -203,6 +203,30 @@ detailed_placement
 ![image](https://user-images.githubusercontent.com/107097885/178092485-18acc390-2bd5-4bb2-bdfa-b17983ace378.png)
 
 
+running open sta for post synthesis timing analysis: 
 
+![image](https://user-images.githubusercontent.com/107097885/178094722-a6d750fd-9aa6-4e76-85f1-3aedc2a342fc.png)
+
+Optimizing synthesis to reduce setup violations. 
+## SYNTH_MAX_FANOUT 4 etc. 
+
+
+CTS successfully synthesised. 
+
+
+![image](https://user-images.githubusercontent.com/107097885/178097825-fa0e1974-7283-49f0-8c3f-11175897e9cb.png)
+
+
+
+
+Clock tree synthesis done succesfully: 
+
+
+![image](https://user-images.githubusercontent.com/107097885/178097957-25743bb9-c621-46af-b2c3-421cf042bc06.png)
+
+
+Created a new netlist for further stages after CTS. 
+
+![image](https://user-images.githubusercontent.com/107097885/178098003-d7b94cd7-b0d9-4da0-ac70-ca4d18092ecc.png)
 
 
