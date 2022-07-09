@@ -1,5 +1,12 @@
 # PD_Course_report
 
+
+
+
+
+
+
+
 Setup part: 
 
 	Importing required package
@@ -185,9 +192,16 @@ Finally SYNTH_STRATEGY DELAY 0 helped.
 ![image](https://user-images.githubusercontent.com/107097885/178073935-6343c914-2528-45fa-9674-aba1f557e1ed.png)
 
 
-Floor plan (using new command init_floorplan) and placement done successfully, custom inv cell highlighted in the gui below in magic
+Floor plan (using new command init_floorplan) steps till placement placement done successfully, custom inv cell highlighted in the gui below in magic
+init_floorplan
+place_io
+global_placement_or
+detailed_placement
+tap_decap_or
+detailed_placement
 
-![image](https://user-images.githubusercontent.com/107097885/178074743-f8cab154-94bb-4750-9ca4-37cb9a222d7b.png)
+![image](https://user-images.githubusercontent.com/107097885/178092485-18acc390-2bd5-4bb2-bdfa-b17983ace378.png)
+
 
 
 
