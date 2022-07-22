@@ -238,3 +238,24 @@ SYNTH_MAX_FANOUT 4 etc.
  
  ![image](https://user-images.githubusercontent.com/107097885/178101216-8ec848ab-2087-4891-98a1-b9e8b223b7c1.png)
 
+
+
+Reloading the database for PDN and routing:
+
+![image](https://user-images.githubusercontent.com/107097885/180350156-aa3b9a3f-9b66-440b-ab57-f13b6b55c536.png)
+
+Verified that we are at corret stage (after CTS) by checking the def. (pointed to cts def)
+
+Going for gen_pdn for power grid generation:
+
+![image](https://user-images.githubusercontent.com/107097885/180350276-f4193f30-96a5-4538-9341-13f06e57e15f.png)
+
+
+# Successfully donr pdn. 
+
+![image](https://user-images.githubusercontent.com/107097885/180350384-cff3a6ab-ccd1-4e06-979e-5113daf518ac.png)
+
+
+# Making sure about rail pitch matches with std height
+
+![image](https://user-images.githubusercontent.com/107097885/180350607-7e4ee42f-5796-447d-9a68-d50f90416858.png)
