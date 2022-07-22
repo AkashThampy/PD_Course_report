@@ -259,3 +259,47 @@ Going for gen_pdn for power grid generation:
 # Making sure about rail pitch matches with std height
 
 ![image](https://user-images.githubusercontent.com/107097885/180350607-7e4ee42f-5796-447d-9a68-d50f90416858.png)
+
+
+# Routing
+
+run_routinng 
+
+# Iterating through multiple optimization cycles: 
+
+
+37th iteration. 
+
+![image](https://user-images.githubusercontent.com/107097885/180355469-a16aedad-9524-4c05-8726-b5fad0aabe24.png)
+
+Goes till 57 iteration to optimize: 
+
+![image](https://user-images.githubusercontent.com/107097885/180355712-630937a7-4915-4e65-89af-8efa6c5323c9.png)
+
+
+# Routing successfully completed. 
+
+![image](https://user-images.githubusercontent.com/107097885/180355923-ff997859-93f2-4e6c-9c3c-9e0844b9558b.png)
+
+-> routing def generated, spef extraction started and reported 0 DRC isssues. 
+
+
+# Successfully completed spef extraction
+
+![image](https://user-images.githubusercontent.com/107097885/180356079-3364286d-47fe-4151-b16e-c95417f68d5a.png)
+
+
+
+# Observing new routing def and parasitic data in routing folder
+
+![image](https://user-images.githubusercontent.com/107097885/180356217-89d5905a-2780-411e-8d5e-7edee19f2f03.png)
+
+
+
+# Conclusion:
+
+
+Successfully completed all the stages in a PD flow starting from Synthesis till routing and parasitic extraction. 
+
+
+
