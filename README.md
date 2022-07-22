@@ -251,7 +251,7 @@ Going for gen_pdn for power grid generation:
 ![image](https://user-images.githubusercontent.com/107097885/180350276-f4193f30-96a5-4538-9341-13f06e57e15f.png)
 
 
-# Successfully donr pdn. 
+# Successfully done pdn. 
 
 ![image](https://user-images.githubusercontent.com/107097885/180350384-cff3a6ab-ccd1-4e06-979e-5113daf518ac.png)
 
